@@ -1,0 +1,18 @@
+.description-games {
+  display: flex;
+  text-align: center;
+  max-height: 90vh;
+}
+
+.description h1 {
+  font-size: 28px;
+  color: chocolate;
+}
+
+.description h2 {
+  color: coral;
+}
+
+.description h3 {
+  color: blueviolet;
+}
